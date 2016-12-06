@@ -1,5 +1,5 @@
-import useQueries from 'history/lib/useQueries'
-import useBasename from 'history/lib/useBasename'
+import useQueries from '../node_modules/history/lib/useQueries'
+import useBasename from '../node_modules/history/lib/useBasename'
 
 export default function useRouterHistory(createHistory) {
   return function (options) {
