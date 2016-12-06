@@ -11,7 +11,7 @@
   ],
   "main": "lib/index",
   "jsnext:main": "es/index",
-  "repository": "ReactTraining/react-router",
+  "repository": "NikitaKis/react-router",
   "homepage": "https://github.com/ReactTraining/react-router#readme",
   "bugs": "https://github.com/ReactTraining/react-router/issues",
   "scripts": {
