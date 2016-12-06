@@ -1,6 +1,6 @@
-import useQueries from 'history/lib/useQueries'
-import useBasename from 'history/lib/useBasename'
-import baseCreateMemoryHistory from 'history/lib/createMemoryHistory'
+import useQueries from '../node_modules/history/lib/useQueries'
+import useBasename from '../node_modules/history/lib/useBasename'
+import baseCreateMemoryHistory from '../node_modules/history/lib/createMemoryHistory'
 
 export default function createMemoryHistory(options) {
   // signatures and type checking differ between `useQueries` and
