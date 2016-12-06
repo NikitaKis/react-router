@@ -1,4 +1,4 @@
-import { REPLACE } from 'history/lib/Actions'
+import { REPLACE } from '../node_modules/history/lib/Actions'
 import invariant from 'invariant'
 
 import createMemoryHistory from './createMemoryHistory'
